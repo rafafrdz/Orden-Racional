@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/rafafrdz/Orden-Racional/master/ejercicio.png)
 
 ```scala
 class Racional(num0 : Int, den0: Int) extends Ordered[Racional]{
